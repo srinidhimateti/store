@@ -27,7 +27,7 @@ p{
 }
 
 body{
-  background-color: slateblue;
+  background-color: background: radial-gradient(50% 50% at 50% 50%, #69EACB 0%, #EACCF8 64.96%, #6654F1 100%);
   padding: 0;
   margin: 0;
 }
